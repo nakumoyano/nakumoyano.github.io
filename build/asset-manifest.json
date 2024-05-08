@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32bda9bd.css",
+    "main.js": "/static/js/main.408c7c8f.js",
+    "static/media/history.png": "/static/media/history.a9cba96473940bbfbedc.png",
+    "static/media/sports.png": "/static/media/sports.8a149dbc2d2f5643f80d.png",
+    "static/media/art.png": "/static/media/art.83cdea1aa7eb76e9b4b2.png",
+    "static/media/viajes.png": "/static/media/viajes.6d071ef477e3c5642b19.png",
+    "static/media/nature.png": "/static/media/nature.c12036f32d304b6cad07.png",
+    "static/media/gameover.png": "/static/media/gameover.e011c420116aa4bb54af.png",
+    "static/media/tof2.png": "/static/media/tof2.deb6f4fdbeca0063fbc0.png",
+    "static/media/gameover.mp3": "/static/media/gameover.3a843b4eb51a2ed88bfd.mp3",
+    "static/media/music.png": "/static/media/music.d4774b7d82d4fe8688ac.png",
+    "index.html": "/index.html",
+    "main.32bda9bd.css.map": "/static/css/main.32bda9bd.css.map",
+    "main.408c7c8f.js.map": "/static/js/main.408c7c8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32bda9bd.css",
+    "static/js/main.408c7c8f.js"
+  ]
+}
